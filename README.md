@@ -1,3 +1,10 @@
+# Fork for support PHP 8
+
+## Installation
+```bash
+composer require silnex/laravel-er-diagram-generator --dev
+```
+
 # Laravel ER Diagram Generator
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/beyondcode/laravel-er-diagram-generator.svg?style=flat-square)](https://packagist.org/packages/beyondcode/laravel-er-diagram-generator)
